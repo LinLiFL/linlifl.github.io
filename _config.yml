@@ -23,21 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lin Li"
-  pronouns         : "he/him"  
   bio              : "Ph.D. Student in Biomedical Informatics"
-  location         : "Gainesville"
   employer         : "University of Florida"
-  uri              : "https://hobi.med.ufl.edu/"
   email            : "lilin2@ufl.edu" 
-
-  # Academic websites
   googlescholar    : "https://scholar.google.com/citations?&user=uRHrZUkAAAAJ"
-  orcid            : "http://orcid.org/0009-0009-5433-6777"
-
-  # Repositories and software development
   github           : "https://github.com/LinLiFL"
-
-  # Social media
   linkedin         : linliwashu
 
 
